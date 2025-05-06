@@ -35,7 +35,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi.
 
-  My experiences mostly is in These areas: <mark>Linux kernel</mark> and <mark>C++</mark>
+  My skills: <mark>Linux kernel</mark> and <mark>C++</mark>
 
 # Footer
 footer_show_references: true
